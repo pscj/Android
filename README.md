@@ -13,3 +13,11 @@ Grokking RxJava系列教程
 * [深入浅出RxJava三：响应式的好处](http://blog.csdn.net/lzyzsd/article/details/44891933)  
 * [深入浅出RxJava四：在Android中使用响应式编程](http://blog.csdn.net/lzyzsd/article/details/45033611)  
 
+##Material Design
+[全面彻底搞定MATERIAL DESIGN的学习笔记](http://www.uisdc.com/comprehensive-material-design-note)
+
+[极客学院视频教程](http://www.jikexueyuan.com/course/124.html)
+
+[Google Design](http://www.google.com/design/)
+
+[Google Material Design](https://www.google.com/design/spec/material-design/introduction.html)
