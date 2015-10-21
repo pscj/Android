@@ -6,7 +6,7 @@ Grokking RxJava系列教程
 * [Grokking RxJava, Part 2: Operator, Operator](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)  
 * [Grokking RxJava, Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)  
 * [Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)  
-中文翻译版本--by 大头鬼Bruce
+中文翻译版本--by 大头鬼Bruce  
 *[深入浅出RxJava一：基础篇](http://blog.csdn.net/lzyzsd/article/details/41833541)
 *[深入浅出RxJava二：操作符](http://blog.csdn.net/lzyzsd/article/details/44094895)
 *[深入浅出RxJava三：响应式的好处](http://blog.csdn.net/lzyzsd/article/details/44891933)
