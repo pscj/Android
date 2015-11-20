@@ -21,3 +21,6 @@ Grokking RxJava系列教程
 [Google Design](http://www.google.com/design/)
 
 [Google Material Design](https://www.google.com/design/spec/material-design/introduction.html)
+
+##设计模式
+[Android MVP介绍](http://kaedea.com/2015/10/11/android-mvp-pattern/)
