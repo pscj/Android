@@ -24,3 +24,6 @@ Grokking RxJava系列教程
 
 ##设计模式
 [Android MVP介绍](http://kaedea.com/2015/10/11/android-mvp-pattern/)
+
+##架构
+[Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.86lco6km3)
