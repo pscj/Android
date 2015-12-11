@@ -19,4 +19,4 @@ cal.getTimeInMillis();
 ```
 getTimeInMillis实际上已经是取utc毫秒数了，和时区没关系 
 ***
-参考资料：[Java: Timezone why different timezone give same value in millisec](http://stackoverflow.com/questions/9867254/java-timezone-why-different-timezone-give-same-value-in-millisec）
+参考资料：[Java Timezone why different timezone give same value in millisec](http://stackoverflow.com/questions/9867254/java-timezone-why-different-timezone-give-same-value-in-millisec)
